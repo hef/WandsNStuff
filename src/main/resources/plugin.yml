@@ -1,0 +1,5 @@
+name: ${pom.name}
+main: edu.uic.cs.acm.WandsNStuff.WandsNStuff
+version: ${pom.version}
+website: ${pom.url}
+authors: [bloodaxed, brad, bry, hef, nyssa, walter]
